@@ -1,5 +1,5 @@
 import streamlit as st
-import opencv-python
+import cv2
 from ultralytics import YOLO
 from PIL import Image
 import base64
